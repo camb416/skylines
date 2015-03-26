@@ -3,4 +3,4 @@ obj/
 bin/  
 build/  
 !data/ 
-bin/skylinesDebug.app/ 
+bin/skylinesDebug.app 
